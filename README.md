@@ -58,3 +58,16 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+## License
+
+Copyright (c) Heusala Group Ltd. All rights reserved.
+
+Each software release is initially under the HG Evaluation and 
+Non-Commercial License for the first two years. This allows use, modification, 
+and distribution for non-commercial and evaluation purposes only. Post this 
+period, the license transitions to the standard MIT license, permitting broader
+usage, including commercial applications. For full details, refer to the 
+[LICENSE.md](LICENSE.md) file. 
+
+**Commercial usage licenses can be obtained under separate agreements.**
